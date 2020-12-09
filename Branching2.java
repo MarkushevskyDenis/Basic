@@ -3,7 +3,7 @@ package by.jonline.grow.basic;
 import java.util.Scanner;
 
 /**
- *  Найти max{min(a, b), min(c, d)}
+ * Найти max{min(a, b), min(c, d)}
  */
 
 public class Branching2 {

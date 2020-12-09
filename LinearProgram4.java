@@ -16,6 +16,7 @@ public class LinearProgram4 {
 
         num = in("введите число nnn.ddd");
 
+
         integer = (int) num;
         fraction = (int) (num * 1000 - integer * 1000);
         num = (fraction * 1000 + integer) / 1000.0;

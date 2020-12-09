@@ -18,11 +18,11 @@ public class Cycle8 {
             num1 = in("введите второе число");
         } while (num1 < 0);
 
-        getDigit(num);
-        getDigit(num1);
+        outDigit(num);
+        outDigit(num1);
     }
 
-    static void getDigit(int num) {
+    static void outDigit(int num) {
         int i = 0;
         int n = 0;
 

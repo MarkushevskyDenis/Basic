@@ -24,8 +24,8 @@ public class LinearProgram6 {
         int x;
         int y;
 
-        x =  in("введите х");
-        y =  in("введите у");
+        x = in("введите х");
+        y = in("введите у");
 
         if ((y >= 0 && y <= 4) && (x >= -2 && x <= 2)) {
 

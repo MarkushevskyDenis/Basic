@@ -13,8 +13,8 @@ public class Branching1 {
         int angle1;
         int angle2;
 
-        angle1 = in("введите угол");
-        angle2 = in("введите угол");
+        angle1 = in("введите угол 1");
+        angle2 = in("введите угол 2");
 
 
         if (angle1 + angle2 < 180) {
